@@ -37,6 +37,32 @@ export const projects = [
   },
 ];
 
+export const blogs = [
+  {
+    title: 'Client Vs Server Side Rendering',
+    description: "In this bolg will be about how Client-side, server-side, and pre-rendering strategies is great options for your own app. We will explore more about pre-rendering.",
+    image: 'https://blogs.soumyajit.tech/BL-1002/next-react.jpg',
+    visit: 'https://google.com',
+    id: 0,
+  },
+  {
+    title: 'Understanding Git and Github',
+    description: "This is a blog on how github and version control works, also about discussing the tool which is highly used in IT sector as source code management tool.",
+    image: 'https://blogs.soumyajit.tech/BL-1001/header.jpg',
+    visit: 'https://google.com',
+    id: 1,
+  },
+  {
+    title: 'React Interview Questions',
+    description: " If you are an aspiring front end developer and preparing for interviews, then this blog on Top React Questions is for you to prepare for the interview.",
+    image: 'https://blogs.soumyajit.tech/BL-1003/reactjs.png',
+    visit: 'https://google.com',
+    id: 2,
+  },
+
+];
+
+
 export const TimeLineData = [
   { year: 2013, text: 'SSC, Ispahani Public School, Chittagong', },
   { year: 2015, text: 'HSC, Ispahani Public School & College, Chittagong', },
