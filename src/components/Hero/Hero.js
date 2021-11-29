@@ -18,7 +18,7 @@ const Hero = (props) => (
           In my free time, you can catch me reading light novels, playing football and
           trying out new recipes.
         </SectionText>
-        <Button onClick={() => window.location = 'https://www.google.com/'}>Resume</Button>
+        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1vKEIYH8nmIHxSctVfu_E3QlM12qzMJ98/view'}>Download Resume</Button>
       </LeftSection>
     </Section>
   </>

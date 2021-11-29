@@ -8,7 +8,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From Back-end To Design
+      I've worked with a range a technologies in the web development world. From front-end design to full stack development, I completed some projocts. Here the list of technologies i have worked with,
     </SectionText>
 
     <List>
@@ -17,10 +17,11 @@ const Technologies = () => (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            Comfortable with,<br />
+            JavaScript, HTML5, CSS3, Flexbox, CSS Grid. <br />
+            Familiar with, C, C++, Java, Python.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,10 +31,11 @@ const Technologies = () => (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Programming Library</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Worked with <br />
+            React js, Node js, Next Js, Stripe js, Crypto js, Redux, Json Web Token, React Bootstrap, React Router, Bootstrap5, Material ui, Styled Components, Tailwind.<br/>
+            Familiar with, TypeScript, GraphQL, React Chart, Redux toolkit, Mapbox‐gl, Webpack.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,10 +45,10 @@ const Technologies = () => (
           <DiCode size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Fimiliar With</ListTitle>
+          <ListTitle>Tools & Version control</ListTitle>
           <ListParagraph>
-            Familiar with <br />
-            tools like Figma
+            Like to work with <br />
+            tools like VS Code, Heroku, Brakets, Figma, Netlify, Firebase, MongoDB, Mongoose, Postman, Slack, Trello, Latex, Sublime text, Codeblocks, Git, Github.
           </ListParagraph>
         </ListContainer>
       </ListItem>
