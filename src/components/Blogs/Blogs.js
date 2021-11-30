@@ -18,7 +18,7 @@ const Blogs = () => (
             </TitleContent>
             <CardInfo className="card-info">{description}</CardInfo>
             <UtilityList>
-              <ExternalLinks href={visit} target="_blank">2 Minute Read </ExternalLinks>
+              <ExternalLinks href={visit} target="_blank">3 Minute Read </ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
