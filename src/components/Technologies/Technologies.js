@@ -20,7 +20,7 @@ const Technologies = () => (
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Comfortable with,<br />
-            JavaScript, HTML5, CSS3, Flexbox, CSS Grid. <br />
+            JavaScript, HTML5, CSS3 <br />
             Familiar with, C, C++, Java, Python.
           </ListParagraph>
         </ListContainer>
@@ -34,8 +34,8 @@ const Technologies = () => (
           <ListTitle>Programming Library</ListTitle>
           <ListParagraph>
             Worked with <br />
-            React js, Node js, Next Js, Stripe js, Crypto js, Redux, Json Web Token, React Bootstrap, React Router, Bootstrap5, Material ui, Styled Components, Tailwind.<br/>
-            Familiar with, TypeScript, GraphQL, React Chart, Redux toolkit, Mapbox‐gl, Webpack.
+            React js, Node js, Next Js, Stripe js, Crypto js, Json Web Token, SASS, Flexbox, CSS Grid, React Bootstrap, React Router, Bootstrap5, Material ui, Styled Components, Tailwind.<br/>
+            Familiar with, TypeScript, Redux, Redux toolkit, Mapbox‐gl, Webpack.
           </ListParagraph>
         </ListContainer>
       </ListItem>

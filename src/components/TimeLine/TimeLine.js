@@ -47,7 +47,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        A young adult with a zeal to develop software that benefits people and lives. Passionate about web development, design and human-computer interaction. Looking to broaden my horizon in the field of technology.
+        Logical and organised individual with a strong foundation in Front-End development. Proficient in building Full MERN Stack web application and responsive web design with or without the framework. Seeking to raise coding standard by providing error-free and reusable codes. Ability to translate design from Figma to create full responsive website. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed software development company.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
