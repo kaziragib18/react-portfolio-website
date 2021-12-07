@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: 'GRACE.',
-    description: "This is a React.js E‐commerce app created with Styled Components and responsive design for mobile users. UI is designed with React shopping cart and Admin dashboard. Here user can find, sort, order products & add to the cart. They can pay via Stripe payment method. Admin can add/remove product, remove order and change order status in the admin dashboard.",
-    image: 'https://i.ibb.co/d0B9jvk/p2.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
-    client: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
-    server: 'https://github.com/kaziragib18/Grace-E-commerce-website-server',
+    title: 'Travelicious',
+    description: "This is a complete responsive tours and travel website design using html, css and vanilla javascript. The website has responsive navbar with toggle menu bar effect, navbar with onclick search bar as well as pop up login / register form. A added a video slider using vanilla javascript.  Added swiperjs in card slider in reviews and brand.",
+    image: 'https://i.ibb.co/hsJnMyB/new-capture-5.png',
+    tags: ['HTML', 'Css', 'javaScript', 'Media Query'],
+    source: 'https://travelicious-agency-website.vercel.app/',
+    client: 'https://github.com/kaziragib18/Travelicious-agency-website',
+    server: 'https://github.com/kaziragib18/Travelicious-agency-website',
     id: 0,
   },
   {
@@ -38,6 +38,25 @@ export const projects = [
     client: 'https://github.com/kaziragib18/react-fine-dine-website-client',
     server: 'https://github.com/kaziragib18/react-fine-dine-website-server',
     id: 3,
+  }, {
+    title: 'Food House',
+    description: "This is a Restaurant web design page which is design with Html, Css, SASS, Bootstrap grid layout and vanilla js. Used flexbox to response the web page. More feature will be added in future update this is a on going project.",
+    image: 'https://i.ibb.co/mGkbcKJ/new-capture-4.png',
+    tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://food-house-website-design.vercel.app/',
+    client: 'https://github.com/kaziragib18/Food-House-website-design',
+    server: 'https://github.com/kaziragib18/Food-House-website-design',
+    id: 0,
+  },
+  {
+    title: 'GRACE.',
+    description: "This is a React.js E‐commerce app created with Styled Components and responsive design for mobile users. UI is designed with React shopping cart and Admin dashboard. Here user can find, sort, order products & add to the cart. They can pay via Stripe payment method. ",
+    image: 'https://i.ibb.co/d0B9jvk/p2.png',
+    tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
+    client: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
+    server: 'https://github.com/kaziragib18/Grace-E-commerce-website-server',
+    id: 0,
   },
 ];
 
