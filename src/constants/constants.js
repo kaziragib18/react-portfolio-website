@@ -50,10 +50,10 @@ export const projects = [
   },
   {
     title: 'GRACE.',
-    description: "This is a React.js E‐commerce app created with Styled Components and responsive design for mobile users. UI is designed with React shopping cart and Admin dashboard. Here user can find, sort, order products & add to the cart. They can pay via Stripe payment method. ",
+    description: "This is a React.js E‐commerce web app design created with Styled Components and responsive design for mobile users. UI is designed with React shopping cart. Here user can find, sort, order products & add to the cart. User can pay via Stripe payment method.",
     image: 'https://i.ibb.co/d0B9jvk/p2.png',
     tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
+    source: 'https://grace-e-commerce-website-client.vercel.app/',
     client: 'https://github.com/kaziragib18/Grace-E-commerce-website-client',
     server: 'https://github.com/kaziragib18/Grace-E-commerce-website-server',
     id: 0,
